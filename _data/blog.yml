@@ -1,17 +1,17 @@
 - name: Blog
   href: '/blog/'
 
-- name: Python
-  href: '/python/'
+- name: Computer Graphics
+  href: '/cg/'
+
+- name: Computer Vision
+  href: '/cv/'
 
 - name: Linux
   href: '/linux/'
 
-- name: HTML
-  href: '/html/'
-
-- name: Database
-  href: '/database/'
+- name: Programming Languages
+  href: '/pl/'
 
 - name: Mac
   href: '/mac/'
