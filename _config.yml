@@ -15,17 +15,25 @@ author:
   last_name: 'Wang'
   email: 'leuction@gmail.com'
   # facebook_username: 'jiakunnj'
+  twitter_username: 'wsha8'
   github_username: 'leuction'
   head_img: 'static/img/landing/leuction.jpeg'
   desc: 'I am a iOS and Android developer, interested in Computer Graphics and Computer Vision'
 
 # sections
 sections:
+
   - id: 'about-me'
     i18n: 'nav.about_me'
     name: 'About'
     tpl: 'about.html'
     css: ''
+
+  - id: 'blog'
+    i18n: 'nav.blog'
+    name: 'Blog'
+    tpl: 'blog.html'
+    css: 'testimonials navy-section'
 
   - id: 'career'
     i18n: 'nav.career'
@@ -39,23 +47,17 @@ sections:
     tpl: 'skills.html'
     css: 'team'
 
-  - id: 'projects'
-    i18n: 'nav.projects'
-    name: 'Projects'
-    tpl: 'projects.html'
-    css: 'project'
+  # - id: 'projects'
+  #   i18n: 'nav.projects'
+  #   name: 'Projects'
+  #   tpl: 'projects.html'
+  #   css: 'project'
 
-  - id: 'blog'
-    i18n: 'nav.blog'
-    name: 'Blog'
-    tpl: 'blog.html'
-    css: 'testimonials navy-section'
-
-  - id: 'links'
-    i18n: 'nav.link'
-    name: 'Links'
-    tpl: 'links.html'
-    css: 'contact'
+  # - id: 'links'
+  #   i18n: 'nav.link'
+  #   name: 'Links'
+  #   tpl: 'links.html'
+  #   css: 'contact'
 
 # localization
 languages:

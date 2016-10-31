@@ -1,11 +1,25 @@
 - name:
-    detail: Graduation
+    detail: Graduation Student
     i18n: Northeastern University
   desc:
     detail: I pursue Master of Science in computer engineering in Northeastern University.
     i18n: college_des
   date:
     detail: Jul. 2018
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book
+
+- name:
+    detail: Graduation
+    i18n: Sichuan University
+  desc:
+    detail: I finish my undergraduate study in Electronic & Information Engineering in Sichuan University.
+    i18n: college_des
+  date:
+    detail: Jul. 2016
     i18n: college_date
   job:
     detail: Student

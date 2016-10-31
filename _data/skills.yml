@@ -1,20 +1,17 @@
-- name: Python
+- name: Swift/iOS
   percentage: 85
 
-- name: HTML/CSS
-  percentage: 65
+- name: Java/Android
+  percentage: 80
 
 - name: Linux/Shell
   percentage: 75
 
-- name: jQuery
-  percentage: 85
-
-- name: AngularJS
+- name: C#
   percentage: 80
 
-- name: Ionic
-  percentage: 70
+- name: C++
+  percentage: 50
 
-- name: Vuejs
-  percentage: 65
+- name: Haskell
+  percentage: 30
