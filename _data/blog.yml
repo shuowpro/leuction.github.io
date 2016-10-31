@@ -4,17 +4,14 @@
 - name: Computer Graphics
   href: '/cg/'
 
-- name: Computer Vision
-  href: '/cv/'
+- name: Algorithms
+  href: '/algorithms/'
 
-- name: Linux
-  href: '/linux/'
+- name: Operating System
+  href: '/os/'
 
 - name: Programming Languages
   href: '/pl/'
-
-- name: Mac
-  href: '/mac/'
 
 - name: Miscellanies
   href: '/miscellanies/'
